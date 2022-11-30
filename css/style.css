@@ -357,6 +357,7 @@ span{
     border-color: rgba(167, 167, 167, 1);
     border: solid;
     border-width: 0.1rem;
+    font-size: 1.8rem;
     text-indent: 2rem;
     color: rgba(167, 167, 167, 1);
     width: 43rem;
@@ -368,6 +369,7 @@ span{
     position: relative;
     text-align: center;
     font-family: 'Monsterrat_Bold';
+    font-size: 2rem;
     color: rgba(255, 255, 255, 1);
     margin-top: 3rem;
     border-width: 0;
